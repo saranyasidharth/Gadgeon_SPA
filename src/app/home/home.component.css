@@ -1,0 +1,38 @@
+.img1{
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    position: absolute;
+    left: 50px;
+}
+.img2{
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    position: absolute;
+    left: 500px;
+}
+.img3{
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    position: absolute;
+    left: 1000px;
+}.heading
+{
+    margin-top: 35pc;
+    position: absolute;
+    left: 100px;
+
+}.heading h2{
+    color: rgb(255, 166, 0);
+    font-size: 40px;
+    text-transform: uppercase;
+    /* position: absolute;
+     */
+
+}
+.heading p{
+    color: rgb(139, 139, 139);
+    font-size: 20px;
+}
