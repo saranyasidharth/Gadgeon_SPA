@@ -9,7 +9,7 @@
 {
     margin-top: 30pc;
     position: absolute;
-    left: 100px;
+    left: 50px;
 
 }.heading h2{
     color: rgb(255, 255, 255);
@@ -18,11 +18,18 @@
     
 
 }
+.heading h3{
+    padding: 50px;
+    color: black;
+    padding-left: 0px;
+}
 .heading p{
     color: rgb(139, 139, 139);
     font-size: 20px;
     text-align: justify;
-    padding:50px ;
+    padding-right: 100px;
+    padding-left: 60px;
+
     left: 0px;
     
 }
